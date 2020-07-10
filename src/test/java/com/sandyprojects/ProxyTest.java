@@ -7,7 +7,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;
 
-public class PersonServiceTest {
+public class ProxyTest {
     @Test
     public void test() {
         PersonService personService = new PersonService();
